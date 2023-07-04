@@ -1,0 +1,78 @@
+### 3. Explain what is execution context in detail with diagram
+
+### Answer-3:
+An execution context is an internal data structure used by JavaScript engines to track the execution of code. It contains information about the variables, functions, and the scope chain of a particular code segment during runtime. Understanding execution contexts is crucial to understanding how JavaScript code is executed.
+
+To visualize the execution context, let's consider the following code example:
+
+```javascript
+function greet() {
+  let message = 'Hello';
+  console.log(message);
+}
+
+function sayHi() {
+  let name = 'John';
+  console.log(`Hi, ${name}!`);
+  greet();
+}
+
+sayHi();
+```
+
+When this code is executed, JavaScript engine creates execution contexts for each function invocation and maintains a stack-like structure called the "execution stack" or "call stack". Let's examine the execution context for each function:
+
+1. **Global Execution Context:** It represents the initial context when the code starts running. It contains two functions (`greet` and `sayHi`), and any variables or functions defined outside these functions (if any). This context has access to the global object (`window` in browsers, `global` in Node.js) and sets up the global scope.
+
+```
+Global Execution Context
+----------------------------
+| greet: function          |
+| sayHi: function          |
+| ...                      |
+----------------------------
+```
+
+2. **Execution Context for `sayHi` function:** This context is created when `sayHi` function is invoked. It includes the function's local variables (`name`), and sets up its own scope chain that links to the variables in the global scope.
+
+```
+sayHi Execution Context
+----------------------------
+| name: 'John'             |
+----------------------------
+| Scope Chain:             |
+|   - sayHi variables      |
+|   - Global variables     |
+----------------------------
+```
+
+3. **Execution Context for `greet` function:** This context is created when `greet` function is invoked from within `sayHi`. It has its own local variable (`message`), and its scope chain includes the variables from both `greet` and `sayHi` execution contexts, as well as the global scope.
+
+```
+greet Execution Context
+----------------------------
+| message: 'Hello'         |
+----------------------------
+| Scope Chain:             |
+|   - greet variables      |
+|   - sayHi variables      |
+|   - Global variables     |
+----------------------------
+```
+
+The execution stack keeps track of the currently executing context. Initially, the global execution context is at the bottom. When `sayHi` is called, its execution context is pushed onto the stack, and when `greet` is called from within `sayHi`, its execution context is pushed on top.
+
+```
+Execution Stack
+----------------------------
+| greet Execution Context  |
+----------------------------
+| sayHi Execution Context  |
+----------------------------
+| Global Execution Context |
+----------------------------
+```
+
+As the functions complete their execution, their respective execution contexts are popped off the stack until the stack becomes empty.
+
+This diagram and explanation illustrate the concept of execution contexts and how they relate to each other during the execution of JavaScript code. They provide a foundation for understanding how variables, scopes, and function calls are managed within the language.
