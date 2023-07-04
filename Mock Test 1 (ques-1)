@@ -1,0 +1,95 @@
+### 1.Explain all the CSS positions(static, fixed, sticky, relative, absolute) with one code example each
+
+### Answer1:-
+Here are the explanations for each CSS position along with one code example for each:
+
+1. Static:
+The default position value for an element is static. Elements with a static position are positioned according to the normal flow of the document. They are not affected by top, bottom, left, right, or z-index properties.
+
+Code Example:
+```html
+<div class="static-example">
+  This is a static positioned element.
+</div>
+```
+```css
+.static-example {
+  position: static;
+}
+```
+
+2. Fixed:
+An element with a fixed position is positioned relative to the viewport, meaning it remains in the same position even if the page is scrolled. It is commonly used for creating elements that stay fixed in a specific position, such as navigation bars.
+
+Code Example:
+```html
+<div class="fixed-example">
+  This is a fixed positioned element.
+</div>
+```
+```css
+.fixed-example {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+```
+
+3. Sticky:
+The sticky position is a hybrid of relative and fixed positioning. An element with a sticky position is positioned based on the user's scroll position. It acts like a relative positioned element until the user scrolls to a specific threshold, at which point it becomes fixed.
+
+Code Example:
+```html
+<div class="sticky-example">
+  This is a sticky positioned element.
+</div>
+```
+```css
+.sticky-example {
+  position: sticky;
+  top: 50px;
+}
+```
+
+4. Relative:
+An element with a relative position is positioned relative to its normal position. It allows you to adjust an element's position using the top, bottom, left, and right properties. Other elements will still be positioned as if the element were in its original position.
+
+Code Example:
+```html
+<div class="relative-example">
+  This is a relative positioned element.
+</div>
+```
+```css
+.relative-example {
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+```
+
+5. Absolute:
+An element with an absolute position is positioned relative to its nearest positioned ancestor, if any. If no positioned ancestor is found, it is positioned relative to the initial containing block. The absolutely positioned element is removed from the normal document flow, and other elements will behave as if it does not exist.
+
+Code Example:
+```html
+<div class="parent">
+  <div class="absolute-example">
+    This is an absolutely positioned element.
+  </div>
+</div>
+```
+```css
+.parent {
+  position: relative;
+  height: 200px;
+}
+
+.absolute-example {
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+```
+
+These examples should help you understand the different CSS positions and their effects on the layout of elements on a webpage.
