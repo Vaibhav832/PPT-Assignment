@@ -57,7 +57,7 @@ The orientation feature is specified as a keyword value chosen from the list bel
 [source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/OneCardWebsiteClone)
 
 ![1](<img width="960" alt="image" src="https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/3649d2af-4151-46ba-b208-02de3a535e61">)
-![2](<img width="960" alt="image" src="https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/a1d8cca4-5c9b-492f-ae05-a7bf5489c1ae">)
+<img width="960" alt="image" src="https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/a1d8cca4-5c9b-492f-ae05-a7bf5489c1ae">
 
 # Q7. The image gallery using grid layout- fully responsive
 
