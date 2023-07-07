@@ -31,20 +31,12 @@ Eg: `<h1>Placement Assignment</h1>`
 
 ## Q4. Resume
 
-[code link](https://github.com/Zareel/PPT-Web-Development-Assignments/blob/zareel/htmlQuestions/04myResume.html)
-
-![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/cecceb44-4413-46e8-8f13-c8644cc3b6a2)
-![2](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/d9db2dfa-3045-495d-8999-c2df4c501c62)
-<br/>
-<br/>
+[code link](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%201/resume.html)
 
 ## Q5. HTML page
 
-[code link](https://github.com/Zareel/PPT-Web-Development-Assignments/blob/zareel/htmlQuestions/05htmlPage.html)
+[code link](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%201/template.html)
 
-![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/cab8d20b-0e2f-460b-8618-05803551f6ec)
-<br/>
-<br/>
 
 ## Q6 What are some of the advantages of HTML5 over its previous versions?
 
@@ -63,8 +55,8 @@ Ans:
 
 ## Q7. Music player
 
-[code link](https://github.com/Zareel/PPT-Web-Development-Assignments/blob/zareel/htmlQuestions/07musicPlayer.html)
-![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/60ac6e3d-3800-4db9-845b-0e64eba22829)
+[code link](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%201/music_player.html)
+
 
 ## Q8 What is the difference between `<figure>` tag and `<img>` tag?
 
@@ -92,6 +84,6 @@ Eg: class, id, style, title
 
 ## 10. html table
 
-[code link](https://github.com/Zareel/PPT-Web-Development-Assignments/blob/zareel/htmlQuestions/10timetable.html)
+[code link](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%201/time_table.html)
 
-![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/69432fb4-4a43-4f78-bacf-a8bd4eb0cc08)
+
