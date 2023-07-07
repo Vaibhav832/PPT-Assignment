@@ -159,10 +159,12 @@ The position properties determine where the element should be located in the doc
 
 [code](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/perodic_table.html)
 
-![3](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/137ab43d-551d-4221-a0c1-b560338396e1)
+![3](![image](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/9f6d87b9-467e-4e61-ad5d-8ca829353bfc)
 
 # Q10. Build responsive layout for Desktop, mobile and tab as the image given
 HTML
 [code](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/responsive.html)
 CSS
 [code](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/style.css)
+![4](![image](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/cc61c387-a3fd-4fdb-abb9-65f532a01b74)
+)
