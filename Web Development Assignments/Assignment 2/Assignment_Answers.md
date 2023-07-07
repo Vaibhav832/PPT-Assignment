@@ -163,6 +163,6 @@ The position properties determine where the element should be located in the doc
 
 # Q10. Build responsive layout for Desktop, mobile and tab as the image given
 HTML
-![5](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/responsive.html)
+[code](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/responsive.html)
 CSS
-![6](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/style.css)
+[code](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/style.css)
