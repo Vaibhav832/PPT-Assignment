@@ -103,7 +103,8 @@ Ans:
 - border-box: includes height, width, padding and margin inside of the box
   <br/>
   <br/>
-  ![2](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/a21ae3c3-61d7-41c4-b487-fa2fcf484a98)
+  ![image](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/d3572eda-7a33-4783-a5b3-fa5e1f5e1352)
+
 
 # Q6. What is z-index and how does it function?
 
