@@ -85,9 +85,11 @@ The orientation feature is specified as a keyword value chosen from the list bel
 
 [source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/StudentDashboard)
 
-![1](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/1b211628-bf5c-42ee-ba0c-7fc1e91584e5)
+![1](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/9cb966be-5490-45d2-a32e-e995cb6b119b)
+
 
 
 <br>
 
-![2](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/5f59d6f9-0d6e-46bf-9971-817e40b1858f)
+![2](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/d9d06944-9cb6-4426-aa81-3cb5e22b80c3)
+
