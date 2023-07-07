@@ -57,15 +57,14 @@ The orientation feature is specified as a keyword value chosen from the list bel
 [source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/OneCardWebsiteClone)
 
 <img width="960" alt="image" src="https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/3649d2af-4151-46ba-b208-02de3a535e61">
-![1](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/c5d64fd7-bf1e-4da1-a9f7-663d30d80807)
 <img width="960" alt="image" src="https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/a1d8cca4-5c9b-492f-ae05-a7bf5489c1ae">
 
 # Q7. The image gallery using grid layout- fully responsive
 
 [source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/ImageGallery)
 
-![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/725ba45b-876a-4987-8007-f113de881225)
-![2](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/f5128e1b-d1f5-4bce-b6ad-72f90586e595)
+![1](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/1464a5f2-3cc5-4719-919e-f66fafac8bb6)
+![2](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/be07de7f-beb0-4465-8eb9-22f1981f99ac)
 ![3](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/01beb8de-42bf-408b-a46a-28a327c647d3)
 
 # Q8 Dark mode and light mode- fully responsive
