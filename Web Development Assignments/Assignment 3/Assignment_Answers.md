@@ -54,7 +54,7 @@ The orientation feature is specified as a keyword value chosen from the list bel
 
 # Q6. The OneCard website clone- fully responsive
 
-[source code](https://github.com/Zareel/PPT-Web-Development-Assignments/tree/zareel/assignmentQuestions03/06oneCardWebsiteClone)
+[source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/OneCardWebsiteClone)
 
 ![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/74fbb102-2831-42fb-8188-43b48e765eba)
 ![2](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/c18327e3-a750-45d0-9c9d-387e80813f39)
@@ -62,7 +62,7 @@ The orientation feature is specified as a keyword value chosen from the list bel
 
 # Q7. The image gallery using grid layout- fully responsive
 
-[source code](https://github.com/Zareel/PPT-Web-Development-Assignments/tree/zareel/assignmentQuestions03/07imageGallery)
+[source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/ImageGallery)
 
 ![1](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/725ba45b-876a-4987-8007-f113de881225)
 ![2](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/f5128e1b-d1f5-4bce-b6ad-72f90586e595)
@@ -70,20 +70,20 @@ The orientation feature is specified as a keyword value chosen from the list bel
 
 # Q8 Dark mode and light mode- fully responsive
 
-[source code](https://github.com/Zareel/PPT-Web-Development-Assignments/tree/zareel/assignmentQuestions03/08darkModeAndLightMode)
+[source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/DarkModeAndLightMode)
 
 ![1](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/06f13c60-fd45-43f0-95fc-9e8ce44ded25)
 ![2](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/8358d8d7-286d-4a50-9392-4e22a807428a)
 
 # Q9. Footer- fully responsive
 
-[source code](https://github.com/Zareel/PPT-Web-Development-Assignments/tree/zareel/assignmentQuestions03/09responsiveFooter)
+[source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/ResponsiveFooter)
 ![1](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/4314c531-ac3d-4ac2-8e32-aafd9114179c)
 ![2](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/ba32d9bd-0ef9-46a7-b351-2b73beef3881)
 
 # Q10 Student dashboard
 
-[source code](https://github.com/Zareel/PPT-Web-Development-Assignments/tree/zareel/assignmentQuestions03/10studentDashboard)
+[source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/StudentDashboard)
 
 ![1](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/daefa369-a9e9-4801-bf02-c4868b7960f6)
 
