@@ -167,4 +167,3 @@ HTML
 CSS
 [code](https://github.com/Vaibhav832/PPT-Assignment/blob/main/Web%20Development%20Assignments/Assignment%202/style.css)
 ![4](![image](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/cc61c387-a3fd-4fdb-abb9-65f532a01b74)
-)
