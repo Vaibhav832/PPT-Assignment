@@ -145,7 +145,8 @@ The position properties determine where the element should be located in the doc
 }
 ```
 
-![3](https://github.com/Zareel/PlacementAssignment_ZareelKalam/assets/110910838/011141ba-98a1-4238-9ce4-d6e5657498d2)
+![image](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/490e8963-39ce-4c27-b7ad-1d70ea0ec1cf)
+
 
 - Fixed: The element is removed from the flow of the document. It helps you to position the element anywhere relative to the document. However this value is unaffected by scrolling
 
