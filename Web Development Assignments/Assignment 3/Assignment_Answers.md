@@ -71,8 +71,9 @@ The orientation feature is specified as a keyword value chosen from the list bel
 
 [source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/DarkModeAndLightMode)
 
-![1](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/06f13c60-fd45-43f0-95fc-9e8ce44ded25)
-![2](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/8358d8d7-286d-4a50-9392-4e22a807428a)
+![1](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/36718c45-836b-4d7b-963f-bc24f42b8a15)
+![2](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/5146e979-bcf2-463a-8e66-486430f85b15)
+
 
 # Q9. Footer- fully responsive
 
@@ -84,7 +85,8 @@ The orientation feature is specified as a keyword value chosen from the list bel
 
 [source code](https://github.com/Vaibhav832/PPT-Assignment/tree/main/Web%20Development%20Assignments/Assignment%203/StudentDashboard)
 
-![1](https://github.com/Zareel/PPT-Web-Development-Assignments/assets/110910838/daefa369-a9e9-4801-bf02-c4868b7960f6)
+![1](https://github.com/Vaibhav832/PPT-Assignment/assets/81919583/1b211628-bf5c-42ee-ba0c-7fc1e91584e5)
+
 
 <br>
 
